@@ -13,7 +13,9 @@ Features
 What problem this solved is links function properly and web page is displayed correctly.
 I learned how to replace DIVS with different and more correct tags.
 
-#### <link rel="Horiseon" href="file:///Users/dylanquaale/Desktop/Horiseon/index.html">
+#### <a href="file:///Users/dylanquaale/Desktop/Horiseon/index.html"> Visit Horiseon!</a>
+
+<link rel="Horiseon" href="file:///Users/dylanquaale/Desktop/Horiseon/index.html">
 
 ##### Collaberated with Krister, Asim, Also had a tutoring session with Areyman.
 
