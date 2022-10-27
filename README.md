@@ -6,7 +6,7 @@ What I did is replace some of the div tags with better semantic elements.
 
 <header> <main> alt tags <nav> <section> <aside> <footer>
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-<a href="file:///Users/dylanquaale/Desktop/Horiseon/index.html"> Horiseon</a>
+[Follow me to Horiseon](file:///Users/dylanquaale/Desktop/Horiseon/index.html)
 
 ## Description
 
